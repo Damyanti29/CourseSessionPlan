@@ -1,0 +1,259 @@
+{
+    "Algorithms and Complexity": [
+        {
+            "id": 1,
+            "Module": "Backtracking and Branch and Bound",
+            "Divided Content": {
+                "Number of Hours: 6": "General Method, Backtracking: N-queen problem, Sum of subsets, Graph coloring, Branch and Bound: Travelling Salesperson Problem, 15 Puzzle problem"
+            }
+        },
+        {
+            "id": 2,
+            "Module": "Divide and Conquer Approach",
+            "Divided Content": {
+                "Number of Hours: 6": "General method, Merge sort, Quick sort, Finding minimum and maximum algorithms and their Analysis, Analysis of Binary search"
+            }
+        },
+        {
+            "id": 3,
+            "Module": "Dynamic Programming Approach",
+            "Divided Content": {
+                "Number of Hours: 9": "General Method, Multistage graphs, Single source shortest path: Bellman Ford Algorithm, All pair shortest path: Floyd Warshall Algorithm, Assembly-line scheduling Problem, 0/1 knapsack Problem, Travelling Salesperson problem, Longest common subsequence"
+            }
+        },
+        {
+            "id": 4,
+            "Module": "Greedy Method Approach",
+            "Divided Content": {
+                "Number of Hours: 6": "General Method, Single source shortest path: Dijkstra Algorithm, Fractional Knapsack problem, Job sequencing with deadlines, Minimum cost spanning trees: Kruskal and Prim\u2019s algorithms"
+            }
+        },
+        {
+            "id": 5,
+            "Module": "Introduction",
+            "Divided Content": {
+                "Number of Hours: 0": "Recurrences: The substitution method, Recursion tree method, Master method",
+                "Number of Hours: 8": "Performance analysis, space, and time complexity, Growth of function, Big-Oh, Omega Theta notation,Mathematical background for algorithm analysis. Complexity class: Definition of P, NP, NP-Hard, NP-Complete, Analysis of selection sort, insertion sort"
+            }
+        },
+        {
+            "id": 6,
+            "Module": "String Matching Algorithms",
+            "Divided Content": {
+                "Number of Hours: 4": "The Na\u00efve string-matching algorithm, The Rabin Karp algorithm, The Knuth-Morris-Pratt algorithm"
+            }
+        }
+    ],
+    "Database Management Systems": [
+        {
+            "id": 1,
+            "Module": "Entity\u2013Relationship Data Model",
+            "Divided Content": {
+                "Number of Hours: 6": "The Entity-Relationship (ER) Model: Entity types: Weak and strong entity sets, Entity sets, Types of Attributes, Keys, Relationship constraints: Cardinality and Participation, Extended Entity-Relationship (EER) Model: Generalization, Specialization and Aggregation"
+            }
+        },
+        {
+            "id": 2,
+            "Module": "Introduction to Database Concepts",
+            "Divided Content": {
+                "Number of Hours: 3": "Introduction, Characteristics of databases, File system vs Database system, Data abstraction and data Independence, DBMS system architecture, Database Administrator"
+            }
+        },
+        {
+            "id": 3,
+            "Module": "Relational Model and Relational Algebra",
+            "Divided Content": {
+                "Number of Hours: 8": "Introduction to the Relational Model, relational schema and concept of keys. Mapping the ER and EER Model to the Relational Model, Relational Algebra-operators, Relational Algebra Queries."
+            }
+        },
+        {
+            "id": 4,
+            "Module": "Relational-Database Design",
+            "Divided Content": {
+                "Number of Hours: 6": "Pitfalls in Relational-Database designs, Concept of normalization, Function Dependencies, First Normal Form, 2NF, 3NF, BCNF."
+            }
+        },
+        {
+            "id": 5,
+            "Module": "Structured Query Language (SQL)",
+            "Divided Content": {
+                "Number of Hours: 6": "Overview of SQL, Data Definition Commands, Integrity constraints: key constraints, Domain Constraints, Referential integrity, check constraints, Data Manipulation commands, Data Control commands, Set and string operations, aggregate function-group by, having, Views in SQL, joins, Nested and complex queries, Triggers"
+            }
+        },
+        {
+            "id": 6,
+            "Module": "Transactions Management and Concurrency and Recovery",
+            "Divided Content": {
+                "Number of Hours: 10": "Transaction concept, Transaction states, ACID properties, Transaction Control Commands, Concurrent Executions, Serializability-Conflict and View, Concurrency Control: Lock-based, Timestamp-based protocols, Recovery System: Log based recovery, Deadlock handling"
+            }
+        }
+    ],
+    "Engineering Mathematics-IV": [
+        {
+            "id": 1,
+            "Module": "Complex Integration",
+            "Divided Content": {
+                "Number of Hours: 1": "2.1 Line Integral, Cauchy\u2019s Integral theorem for simple connected and multiply connected regions (without proof), Cauchy\u2019s Integral formula (without proof)",
+                "Number of Hours: 2": "2.2 Taylor\u2019s and Laurent\u2019s series (without proof)",
+                "Number of Hours: 3": "2.3 Definition of Singularity, Zeroes, poles of f(z), Residues, Cauchy\u2019s Residue Theorem (without proof)",
+                "Number of Hours: 4": "2.4 Self-learning Topics: Application of Residue Theorem to evaluate real integrations"
+            }
+        },
+        {
+            "id": 2,
+            "Module": "Linear Algebra (Theory of Matrices)",
+            "Divided Content": {
+                "Number of Hours: 1": "1.1 Characteristic Equation, Eigenvalues and Eigenvectors, and properties (without proof)",
+                "Number of Hours: 2": "1.2 Cayley-Hamilton Theorem (without proof), verification and reduction of higher degree polynomials",
+                "Number of Hours: 3": "1.3 Similarity of matrices, diagonalizable and non-diagonalizable matrices",
+                "Number of Hours: 4": "1.4 Self-learning Topics: Derogatory and non-derogatory matrices, Functions of Square Matrix, Linear Transformations, Quadratic forms"
+            }
+        },
+        {
+            "id": 3,
+            "Module": "Linear Programming Problems",
+            "Divided Content": {
+                "Number of Hours: 0": "5.4 Self-learning Topics: Sensitivity Analysis, Two-Phase Simplex Method, Revised Simplex Method",
+                "Number of Hours: 2": "5.3 Duality, Dual of LPP and Dual Simplex Method"
+            }
+        },
+        {
+            "id": 4,
+            "Module": "Nonlinear Programming Problems",
+            "Divided Content": {
+                "Number of Hours: 0": "6.4 Self-learning Topics: Problems with two inequality constraints, Unconstrained optimization: One-dimensional search method (Golden Search method, Newton\u2019s method). Gradient Search method",
+                "Number of Hours: 2": "6.2 NLPP with two equality constraints",
+                "Number of Hours: 3": "6.3 NLPP with inequality constraint: Kuhn-Tucker conditions"
+            }
+        },
+        {
+            "id": 5,
+            "Module": "Probability Distribution and Sampling Theory",
+            "Divided Content": {
+                "Number of Hours: 0": "4.4 Self-learning Topics: Test significance for Large samples, Estimate parameters of a population, Yate\u2019s Correction",
+                "Number of Hours: 1": "4.3 Students\u2019 t-distribution (Small sample). Test the significance of mean and Difference between the means of two samples. Chi-Square Test: Test of goodness of fit and independence of attributes, Contingency table",
+                "Number of Hours: 3": "4.2 Sampling distribution, Test of Hypothesis, Level of Significance, Critical region, One-tailed, and two-tailed test, Degree of freedom"
+            }
+        },
+        {
+            "id": 6,
+            "Module": "Z Transform",
+            "Divided Content": {
+                "Number of Hours: 1": "3.1 Definition and Region of Convergence, Transform of Standard Functions: {\ud835\udc58^n}, {\ud835\udc4e",
+                "Number of Hours: 2": "3.2 Properties of Z Transform: Change of Scale, Shifting Property, Multiplication, and Division by k, Convolution theorem",
+                "Number of Hours: 3": "3.3 Inverse Z transform: Partial Fraction Method, Convolution Method",
+                "Number of Hours: 4": "3.4 Self-learning Topics: Initial value theorem, Final value theorem, Inverse of Z Transform by Binomial Expansion"
+            }
+        }
+    ],
+    "Microprocessor Systems": [
+        {
+            "id": 1,
+            "Module": "Instruction Set and Programming",
+            "Divided Content": {
+                "Number of Hours: 2": "Assembler Directives and Assembly Language Programming, Macros, Procedures"
+            }
+        },
+        {
+            "id": 2,
+            "Module": "Intel 80386DX Processor",
+            "Divided Content": {
+                "Number of Hours: 1": "80386 memory management in Protected Mode \u2013 Descriptors and selectors, descriptor tables, the memory paging mechanism",
+                "Number of Hours: 2": "Real mode, Protected mode, virtual 8086 mode"
+            }
+        },
+        {
+            "id": 3,
+            "Module": "Memory and Peripherals interfacing ",
+            "Divided Content": {
+                "Number of Hours: 2": "Programmable Interrupt Controller 8259-Block Diagram, Interfacing the 8259 in single and cascaded mode"
+            }
+        },
+        {
+            "id": 4,
+            "Module": "Pentium 4",
+            "Divided Content": {
+                "Number of Hours: 1": "Comparative study of 8086, 80386, Pentium I, Pentium II and Pentium III"
+            }
+        },
+        {
+            "id": 5,
+            "Module": "Pentium 5",
+            "Divided Content": {
+                "Number of Hours: 1": "Pentium 4: Net burst micro architecture"
+            }
+        },
+        {
+            "id": 6,
+            "Module": "Pentium 6",
+            "Divided Content": {
+                "Number of Hours: 1": "Instruction translation look aside buffer and branch prediction"
+            }
+        },
+        {
+            "id": 7,
+            "Module": "Pentium 7",
+            "Divided Content": {
+                "Number of Hours: 1": "Hyper threading technology and its use in Pentium 4"
+            }
+        },
+        {
+            "id": 8,
+            "Module": "Pentium Processor",
+            "Divided Content": {
+                "Number of Hours: 1": "MESI protocol"
+            }
+        },
+        {
+            "id": 9,
+            "Module": "The Intel Microprocessors 8086 Architecture",
+            "Divided Content": {
+                "Number of Hours: 1": "Interrupt structure and its servicing"
+            }
+        }
+    ],
+    "Operating System Concepts": [
+        {
+            "id": 1,
+            "Module": "File Management",
+            "Divided Content": {
+                "Number of Hours: 4": "Overview, File Organization and Access, File Directories, File Sharing"
+            }
+        },
+        {
+            "id": 2,
+            "Module": "I/O Management",
+            "Divided Content": {
+                "Number of Hours: 4": "I/O devices, Organization of the I/O Function, Disk Organization, I/O Management and Disk Scheduling: FCFS, SSTF, SCAN, CSCAN, LOOK, C-LOOK"
+            }
+        },
+        {
+            "id": 3,
+            "Module": "Memory Management",
+            "Divided Content": {
+                "Number of Hours: 9": "Memory Management Requirements, Memory Partitioning: Fixed Partitioning, Dynamic Partitioning, Memory Allocation Strategies: Best-Fit, First Fit, Worst Fit, Paging and Segmentation, TLB, Virtual Memory: Demand Paging, Page Replacement Strategies: FIFO, Optimal, LRU, Thrashing"
+            }
+        },
+        {
+            "id": 4,
+            "Module": "Operating System Overview",
+            "Divided Content": {
+                "Number of Hours: 4": "Introduction, Objectives, Functions and Evolution of Operating System, Operating system structures: Layered, Monolithic and Microkernel, Linux Kernel, Shell and System Calls"
+            }
+        },
+        {
+            "id": 5,
+            "Module": "Process Synchronization and Deadlocks",
+            "Divided Content": {
+                "Number of Hours: 9": "Concurrency: Principles of Concurrency, Inter-Process Communication, Process Synchronization, Mutual Exclusion: Requirements, Hardware Support (TSL), Operating System Support (Semaphores), Producer and Consumer problem, Principles of Deadlock: Conditions and Resource, Allocation Graphs, Deadlock Prevention, Deadlock Avoidance: Banker\u2019s Algorithm, Deadlock Detection and Recovery, Dining Philosophers Problem"
+            }
+        },
+        {
+            "id": 6,
+            "Module": "Process and Process Scheduling",
+            "Divided Content": {
+                "Number of Hours: 9": "Concept of a Process, Process States, Process Description, Process Control Block, Uniprocessor Scheduling-Types: Preemptive and Non-preemptive scheduling algorithms (FCFS, SJF, SRTN, Priority, RR), Threads: Definition and Types, Concept of Multithreading"
+            }
+        }
+    ]
+}
